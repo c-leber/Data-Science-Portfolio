@@ -49,3 +49,9 @@ XXshort summary of project and contributionsXX
 
 - [Publication](https://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.9b01128?casa_token=K7cL2DPrIvwAAAAA:6qoozeZLoiMZZUiN04AOhPmMeIbN6hpfO4yallyBXKuAsdRB9bmwydqFGjRhcznkWnMnqFEvESvEvyw "Cryptic Species Account for the Seemingly Idiosyncratic Secondary Metabolism of Sarcophyton glaucum Specimens Collected in Palau")
 
+### NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products
+#### supervised learning | classification | deep-learning
+XXshort summary of project and contributionsXX
+
+- [Pre-print](https://chemrxiv.org/articles/preprint/NPClassifier_A_Deep_Neural_Network-Based_Structural_Classification_Tool_for_Natural_Products/12885494/1 "NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products")
+
