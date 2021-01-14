@@ -16,7 +16,7 @@ text text text
 
 - Report + Code
 
-## PhD Projects
+## PhD Projects - Lead
 
 ### The Objective Relational Comparative Analyses (ORCA) pipeline
 #### unsupervised learning | clustering | feature selection | metabolomics data processing & data wrangling
@@ -39,4 +39,13 @@ text text text
 
 - Data Science Summary Report - COMING SOON
 - [Code](https://github.com/c-leber/iTerator "iTerator repo")
+
+
+## PhD Projects - Contributor
+
+### Cryptic Species Account for the Seemingly Idiosyncratic Secondary Metabolism of Sarcophyton glaucum Specimens Collected in Palau
+#### unsupervised learning | clustering | supervised learning | metabolomics
+XXshort summary of project and contributionsXX
+
+- [Publication](https://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.9b01128?casa_token=K7cL2DPrIvwAAAAA:6qoozeZLoiMZZUiN04AOhPmMeIbN6hpfO4yallyBXKuAsdRB9bmwydqFGjRhcznkWnMnqFEvESvEvyw "Cryptic Species Account for the Seemingly Idiosyncratic Secondary Metabolism of Sarcophyton glaucum Specimens Collected in Palau")
 
