@@ -55,3 +55,12 @@ XXshort summary of project and contributionsXX
 
 - [Pre-print](https://chemrxiv.org/articles/preprint/NPClassifier_A_Deep_Neural_Network-Based_Structural_Classification_Tool_for_Natural_Products/12885494/1 "NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products")
 
+## Summary of Proprietary Projects
+
+### Sirenas Marine Discovery / Galileo Biosystems
+#### keywords
+XXsummaryXX
+
+### Council Brewing
+#### keywords (clustering, similarity metrics, timeseries)
+XXsummaryXX -- produced a report...
