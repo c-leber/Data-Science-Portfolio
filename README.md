@@ -5,13 +5,19 @@ Welcome to my data science porfolio! For more information about me, please see [
 ## Personal Explorations
 
 ### Predicting Cannabis Effects via Smell
-#### supervised learning | classification | feature engineering | cross-validation | hyperparamater tuning | multi-output classification
+#### supervised learning | classification | probablistic imputation | cross-validation | hyperparamater tuning 
+Building classifiers with sci-kit learn to predict the effects of cannabis strains based on their aromas and flavors.
+
+- [Report + Code](https://github.com/c-leber/Predicting-Cannabis-Effects-via-Smell/blob/main/Code_and_Report.ipynb)
+
+### Determining Land Use from Satelite Imagery
+#### deep learning | convolutional neural networks | remote sensing | multi-label classification
 text text text
 
 - Report + Code
 
-### Something to do with image/remote sensing data & geospatial OR time series
-#### data science | XYZ
+### California Wildfires: Learning from the Past
+#### interactive visualization | geospatial data | time series 
 text text text
 
 - Report + Code
@@ -20,7 +26,7 @@ text text text
 
 ### The Objective Relational Comparative Analyses (ORCA) pipeline
 #### unsupervised learning | clustering | feature selection | metabolomics data processing & data wrangling
-text text text
+A toolkit for processing and performing comparative analyses on MS1 metabolomics data.
 
 - Data Science Summary Report - COMING SOON
 - [Publication](https://pubmed.ncbi.nlm.nih.gov/33066480/ "Leber et al 2020")
