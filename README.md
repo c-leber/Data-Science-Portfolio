@@ -10,7 +10,7 @@ Cannabis produces a plethora of interesting chemical compounds, many of which ar
 
 - [Report + Code](https://github.com/c-leber/Predicting-Cannabis-Effects-via-Smell/blob/main/Code_and_Report.ipynb)
 
-### Determining Land Use from Satelite Imagery ~on-going~
+### Determining Land Use from Satelite Imagery ::on-going::
 #### deep learning | convolutional neural networks | remote sensing | multi-label classification
 text text text
 
