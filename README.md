@@ -21,21 +21,21 @@ text text text
 #### interactive visualization | geospatial data | time series 
 text text text
 
-- [Shiny App](https://c-leber.shinyapps.io/ca_wildfire_viz)
+- [Shiny App](https://c-leber.shinyapps.io/ca_wildfire_viz "CA Wildfire App")
 - [Source Code]()
 
 ### COVID-19 School Reopening Tool
 #### interactive visualization 
 text text text
 
-- [Shiny App](https://c-leber.shinyapps.io/covid19_school_reopening)
+- [Shiny App](https://c-leber.shinyapps.io/covid19_school_reopening "COVID19 School Reopening App")
 - [Source Code]()
 
 ## PhD Projects - Lead
 
 ### The Objective Relational Comparative Analyses (ORCA) pipeline
 #### unsupervised learning | clustering | feature selection | metabolomics data processing & data wrangling
-A toolkit for processing and performing comparative analyses on MS1 metabolomics data.
+A toolkit for processing and performing comparative analyses on MS1 metabolomics data. Also includes auxiliary tool for clustering MS2 spectra.
 
 - Data Science Summary Report - COMING SOON
 - [Publication](https://pubmed.ncbi.nlm.nih.gov/33066480/ "Leber et al 2020")
@@ -43,14 +43,14 @@ A toolkit for processing and performing comparative analyses on MS1 metabolomics
 
 ### The ORCA Expansion
 #### unsupervised learning | feature selection & pseudosupervised learning | statistical testing | pairwise comparisons & similarity metrics
-text text text
+An expanded toolkit for processing and performing comparative analyses on MS1 metabolomics data, including metadata supervised feature selection, pariwise feature comparisons, and various metrics for measuring chemical compositional similarity.
 
 - Data Science Summary Report - COMING SOON
 - [Code](https://github.com/c-leber/ORCA/tree/Mb_MS_expansion "ORCA repo - Expansion")
 
 ### iTerator (iT)
 #### bioinformatics | draft genome improvement | pipeline development | data & file handling
-text text text
+A bioinformatic pipeline for iterative de novo scaffolding, referenced scaffolding, gap filling, and gap clearing, for improved genome sequence contiguity and increased biosynthetic gene cluster completeness.
 
 - Data Science Summary Report - COMING SOON
 - [Code](https://github.com/c-leber/iTerator "iTerator repo")
@@ -60,22 +60,28 @@ text text text
 
 ### Cryptic Species Account for the Seemingly Idiosyncratic Secondary Metabolism of Sarcophyton glaucum Specimens Collected in Palau
 #### unsupervised learning | clustering | supervised learning | metabolomics
-XXshort summary of project and contributionsXX
 
 - [Publication](https://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.9b01128?casa_token=K7cL2DPrIvwAAAAA:6qoozeZLoiMZZUiN04AOhPmMeIbN6hpfO4yallyBXKuAsdRB9bmwydqFGjRhcznkWnMnqFEvESvEvyw "Cryptic Species Account for the Seemingly Idiosyncratic Secondary Metabolism of Sarcophyton glaucum Specimens Collected in Palau")
 
 ### NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products
 #### supervised learning | classification | deep-learning
-XXshort summary of project and contributionsXX
 
 - [Pre-print](https://chemrxiv.org/articles/preprint/NPClassifier_A_Deep_Neural_Network-Based_Structural_Classification_Tool_for_Natural_Products/12885494/1 "NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products")
 
 ## Summary of Proprietary Projects
 
 ### Sirenas Marine Discovery / Galileo Biosystems
-#### keywords
-XXsummaryXX
+#### platform development | statistical analyses | bias detection & correction | supervised & unsupervised machine learning
+
+-  Extended and refactored elements of an expansive, multi-author, multi-language Luigi-based data pipeline integrating a suite of AWS services, multiple Docker images, and relational and graph-based databases, for making predictions from diverse chemical and biological datasets.
+- Implemented recursive feature elimination on a high-dimensional dataset, optimized to improve unsupervised learning via a missing-data-tolerant, modified k-NN algorithm.
+-  Designed ranking algorithms for sample prioritization, with alternative ranking strategies optimized for user goals. 
+- Created a QC protocol with robust statistical analyses for high-throughput multivariate assay data and custom transformations to correct for inter- and intraplate systemic biases. 
+-  Developed parametric and nonparametric workflows for identifying biases in high-throughput screening data. 
+-  Produced timely reports with data visualization to articulate actionable findings to colleagues.
 
 ### Council Brewing
-#### keywords (clustering, similarity metrics, timeseries)
-XXsummaryXX -- produced a report...
+#### clustering| similarity metrics | time series | geospatial data
+- Analyzed trends in demand for different beverage market segments.
+- Produced geospatial visualizations of brewery tasting room density across San Diego County.
+- Assessed brewery similarities across different feature sets.
