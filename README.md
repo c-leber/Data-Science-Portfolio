@@ -6,21 +6,30 @@ Welcome to my data science porfolio! For more information about me, please see [
 
 ### Predicting Cannabis Effects via Smell
 #### supervised learning | classification | probablistic imputation | cross-validation | hyperparamater tuning 
-Building classifiers with sci-kit learn to predict the effects of cannabis strains based on their aromas and flavors.
+Cannabis produces a plethora of interesting chemical compounds, many of which are thought to act synergistically in producing the pharamcological effects associated with specific strains. Classifiers built with sci-kit learn can be used to predict the effects of cannabis strains, using their aromas and flavors as proxies for terpene composition.
 
 - [Report + Code](https://github.com/c-leber/Predicting-Cannabis-Effects-via-Smell/blob/main/Code_and_Report.ipynb)
 
-### Determining Land Use from Satelite Imagery
+### Determining Land Use from Satelite Imagery ~on-going~
 #### deep learning | convolutional neural networks | remote sensing | multi-label classification
 text text text
 
-- Report + Code
+- [Code + Model Leaderboard]()
+- [Overcoming Challenges in Data Handling]()
 
 ### California Wildfires: Learning from the Past
 #### interactive visualization | geospatial data | time series 
 text text text
 
-- Report + Code
+- [Shiny App](https://c-leber.shinyapps.io/ca_wildfire_viz)
+- [Source Code]()
+
+### COVID-19 School Reopening Tool
+#### interactive visualization 
+text text text
+
+- [Shiny App](https://c-leber.shinyapps.io/covid19_school_reopening)
+- [Source Code]()
 
 ## PhD Projects - Lead
 
