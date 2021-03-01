@@ -44,14 +44,14 @@ A toolkit for processing and performing comparative analyses on MS1 metabolomics
 #### unsupervised learning | feature selection & pseudosupervised learning | statistical testing | pairwise comparisons & similarity metrics
 An expanded toolkit for processing and performing comparative analyses on MS1 metabolomics data, including metadata supervised feature selection, pariwise feature comparisons, and various metrics for measuring chemical compositional similarity.
 
-- Abstract ::manuscript in prep::
+- [Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/ORCA_expansion_abstract.md) ::manuscript in prep::
 - [Code](https://github.com/c-leber/ORCA/tree/Mb_MS_expansion "ORCA repo - Expansion")
 
 ### iTerator (iT)
 #### bioinformatics | draft genome improvement | pipeline development | data file handling
 A bioinformatic pipeline for iterative de novo scaffolding, referenced scaffolding, gap filling, and gap clearing, for improved genome sequence contiguity and increased biosynthetic gene cluster completeness.
 
-- Abstract ::manuscript in prep::
+- [Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/iTerator_abstract.md) ::manuscript in prep::
 - [Code](https://github.com/c-leber/iTerator "iTerator repo")
 
 
