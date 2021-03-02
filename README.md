@@ -34,14 +34,14 @@ Reopening schools safely requires consideration of multiple timeline, including 
 ## PhD Projects - Lead
 
 ### The Objective Relational Comparative Analyses (ORCA) pipeline
-#### unsupervised learning | clustering | feature selection | metabolomics data processing & data wrangling
+#### unsupervised learning | feature selection | metabolomics data processing & data wrangling
 A toolkit for processing and performing comparative analyses on MS1 metabolomics data. Also includes auxiliary tool for analyzing clusters of MS2 spectra.
 
 - [Publication](https://pubmed.ncbi.nlm.nih.gov/33066480/ "Leber et al 2020")
 - [Code](https://github.com/c-leber/ORCA "ORCA repo")
 
 ### The ORCA Expansion
-#### unsupervised learning | feature selection & pseudosupervised learning | statistical testing | pairwise comparisons & similarity metrics
+#### unsupervised learning | feature selection | statistical testing | pairwise comparisons & similarity metrics
 An expanded toolkit for processing and performing comparative analyses on MS1 metabolomics data, including metadata supervised feature selection, pariwise feature comparisons, and various metrics for measuring chemical compositional similarity.
 
 - [Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/ORCA_expansion_abstract.md) ::manuscript in prep::
