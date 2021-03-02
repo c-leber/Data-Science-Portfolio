@@ -22,14 +22,14 @@ Cannabis produces a plethora of interesting chemical compounds, many of which ar
 Visualizing the past and future of California Wildfires.
 
 - [Shiny App](https://c-leber.shinyapps.io/ca_wildfire_viz "CA Wildfire App")
-- Source Code
+- [Source Code](https://github.com/c-leber/CA-Wildfire-Visualizations/blob/main/app.R.ipynb)
 
 ### COVID-19 School Reopening Tool
 #### interactive visualization
 Reopening schools safely requires consideration of multiple timeline, including post holiday break quarantine periods and providing an adequate time window for teachers to be vaccinated and reach peak immunity. Herein is an interactive tool for informing policy decisions via visualization of the multi-dimensional problem being solved.
 
 - [Shiny App](https://c-leber.shinyapps.io/covid19_school_reopening "COVID19 School Reopening App")
-- Source Code
+- [Source Code](https://github.com/c-leber/COVID19-School-Reopening-Tool/blob/main/app.R.ipynb)
 
 ## PhD Projects - Lead
 
