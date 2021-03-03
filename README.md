@@ -67,6 +67,8 @@ A bioinformatic pipeline for iterative de novo scaffolding, referenced scaffoldi
 
 - [Pre-print](https://chemrxiv.org/articles/preprint/NPClassifier_A_Deep_Neural_Network-Based_Structural_Classification_Tool_for_Natural_Products/12885494/1 "NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products")
 
+For my full publication list, please see [here](https://github.com/c-leber/Data-Science-Portfolio/blob/main/Publications.md).
+
 ## Summary of Proprietary Projects
 
 ### Sirenas Marine Discovery / Galileo Biosystems
