@@ -8,7 +8,7 @@ Welcome to my data science porfolio! For more information about me, please see [
 Cannabis produces a plethora of interesting chemical compounds, many of which are thought to act synergistically in producing the pharamcological effects associated with specific strains. Here I perform a broad survey of classifiers, with subseuent hyperparameter tuning on top models, to build models that can be used to predict the effects of cannabis strains, using their aromas and flavors as proxies for terpene composition.
 
 - [1. Model Building Report + Code](https://github.com/c-leber/Predicting-Cannabis-Effects-via-Smell/blob/main/Code_and_Report.ipynb)
-- 1.1 Classification with Gaussian Processes Report + Code
+- 1.1 Kernel Building for Binary Data Report + Code
 
 ### California Wildfires: Learning from the Past
 #### interactive visualization | geospatial data | time series 
