@@ -10,13 +10,6 @@ Cannabis produces a plethora of interesting chemical compounds, many of which ar
 - [1. Model Building Report + Code](https://github.com/c-leber/Predicting-Cannabis-Effects-via-Smell/blob/main/Code_and_Report.ipynb)
 - 1.1 Classification with Gaussian Processes Report + Code
 
-### Determining Land Use from Satelite Imagery: Deep Learning Experimental Playground ::on-going::
-#### deep learning | convolutional neural networks | remote sensing | multi-label classification | data handling & ETL
-[BigEarthNet](http://bigearth.net/ "BigEarthNet") is an archive of remote sensing images multi-labelled for land-use that can be used to train and benchmark deep learning models. This massive resource of 590,326 x 12 band images offers many opportunities for model building, while also presenting substantial challenges for data handling in the limited resource Google Colab/Google Drive environment.
-
-- Code + Model Leaderboard
-- Overcoming Challenges in Low Resource Data Handling
-
 ### California Wildfires: Learning from the Past
 #### interactive visualization | geospatial data | time series 
 Visualizing the past and future of California Wildfires.
@@ -86,3 +79,12 @@ For my full publication list, please see [here](https://github.com/c-leber/Data-
 - Analyzed trends in demand for different beverage market segments.
 - Produced geospatial visualizations of brewery tasting room density across San Diego County.
 - Assessed brewery similarities across different feature sets.
+
+## :: In the Works ::
+
+### Determining Land Use from Satelite Imagery: Deep Learning Experimental Playground ::on-going::
+#### deep learning | convolutional neural networks | remote sensing | multi-label classification | data handling & ETL
+[BigEarthNet](http://bigearth.net/ "BigEarthNet") is an archive of remote sensing images multi-labelled for land-use that can be used to train and benchmark deep learning models. This massive resource of 590,326 x 12 band images offers many opportunities for model building, while also presenting substantial challenges for data handling in the limited resource Google Colab/Google Drive environment.
+
+- Overcoming Challenges in Low Resource Data Handling
+- Experiments in Deep Learning
