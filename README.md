@@ -11,7 +11,7 @@ Cannabis produces a plethora of interesting chemical compounds, many of which ar
 - 1.1 Classification with Gaussian Processes Report + Code
 
 ### Determining Land Use from Satelite Imagery: Deep Learning Experimental Playground ::on-going::
-#### deep learning | convolutional neural networks | remote sensing | multi-label classification | data handling
+#### deep learning | convolutional neural networks | remote sensing | multi-label classification | data handling & ETL
 [BigEarthNet](http://bigearth.net/ "BigEarthNet") is an archive of remote sensing images multi-labelled for land-use that can be used to train and benchmark deep learning models. This massive resource of 590,326 x 12 band images offers many opportunities for model building, while also presenting substantial challenges for data handling in the limited resource Google Colab/Google Drive environment.
 
 - Code + Model Leaderboard
