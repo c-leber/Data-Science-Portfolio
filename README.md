@@ -93,4 +93,4 @@ For my full publication list, please see [here](https://github.com/c-leber/Data-
 #### supervised learning | classification | probablistic imputation | cross-validation | hyperparamater tuning 
 Cannabis produces a plethora of interesting chemical compounds, many of which are thought to act synergistically in producing the pharamcological effects associated with specific strains. Here I perform a broad survey of classifiers, with subseuent hyperparameter tuning on top models, to build models that can be used to predict the effects of cannabis strains, using their aromas and flavors as proxies for terpene composition.
 
-- 2. Feature Engineering Deep Dive
+- 2.Feature Engineering Deep Dive
