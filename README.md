@@ -9,7 +9,7 @@ Cannabis produces a plethora of interesting chemical compounds, many of which ar
 
 - [1. Model Building Report + Code](https://github.com/c-leber/Predicting-Cannabis-Effects-via-Smell/blob/main/Code_and_Report.ipynb)
   - NOTE: Due to the size of the file, GitHub may fail to render the Model Building Report + Code on the first try. 
-  - Please reload to view - you may need to reload 4-5 times.
+    - Please reload to view - you may need to reload 4-5 times.
 - 1.1 Kernel Building for Binary Data Report + Code
 
 ### California Wildfires: Learning from the Past
