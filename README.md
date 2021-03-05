@@ -60,6 +60,11 @@ A bioinformatic pipeline for iterative de novo scaffolding, referenced scaffoldi
 
 - [Pre-print](https://chemrxiv.org/articles/preprint/NPClassifier_A_Deep_Neural_Network-Based_Structural_Classification_Tool_for_Natural_Products/12885494/1 "NPClassifier: A Deep Neural Network-Based Structural Classification Tool for Natural Products")
 
+### COVID-19 Computational Screening Pipeline
+#### supervised learning | deep-learning
+
+Initiated a collaborative, international effort to prioritize natural products for pharmacological screening against SARS-CoV-2, the virus that causes COVID-19. Curated data, trained, and ensembled [ChemProp](https://github.com/chemprop/chemprop) neural networks to screen *in silico* over 100,000 compounds from a collection of private compound libraries of (mainly) natural products. Top hits were filtered by a team of chemists, and then advanced to molecular modeling. Efforts continue to source top hits and submit them for validation in pharmacological assays.
+
 For my full publication list, please see [here](https://github.com/c-leber/Data-Science-Portfolio/blob/main/Publications.md).
 
 ## Summary of Proprietary Projects
