@@ -1,6 +1,14 @@
 # Christopher A Leber, PhD - Data Science Portfolio
 Welcome to my data science porfolio! For more information about me, please see [my LinkedIn profile](https://www.linkedin.com/in/christopheraleber/ "Christopher A Leber's LinkedIn profile").
 
+#### Guide
+- [Personal Explorations](#personal-explorations): toy projects for experimenting with tachniques and illustrating how I approach problems
+- [PhD Projects - Lead](#phd-projects---lead): computationally-driven works core to my PhD dissertation
+- [PhD Projects - Contributor](#phd-projects---contributor): collaborative efforts to which I contributed data science acumen
+- [Proprietary Projects](#summary-of-proprietary-projects): summaries of data science and development conducted in the service of industry
+- [In the Works](#-in-the-works-): where my head is at now, and where my mind is going
+
+
 ## Personal Explorations
 
 ### Predicting Cannabis Effects via Smell
