@@ -77,6 +77,13 @@ For my full publication list, please see [here](https://github.com/c-leber/Data-
 
 ## Summary of Proprietary Projects
 
+### Oracle Water Services
+#### deep learning | computer vision | regression | transfer learning
+
+- Developed deep learning computer vision regression models for industrial applications.
+- Iterated over models to improve accuracy and generalizability.
+- Applied transfer learning and augmentation techniques to extend the utility of small training datasets.
+
 ### Sirenas Marine Discovery / Galileo Biosystems
 #### platform development | statistical analyses | bias detection & correction | supervised & unsupervised machine learning
 
