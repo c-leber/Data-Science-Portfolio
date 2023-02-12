@@ -7,6 +7,6 @@
 - Petras D, [et al, including Leber CA] (2016) Mass Spectrometry-Based Visualization of Molecules Associated with Human Habitats. Anal Chem 88:10775–10784. https://doi.org/10.1021/acs.analchem.6b03456
 
 ### In Prep
-- Leber CA et al. (2021) Induction versus Selection: Examining Alternative Mechanisms Driving *Alpheus frontalis* Association and Chemical Composition in *Moorena bouillonii*. *In Prep*.
-- Leber CA et al. (2021) *Moorena bouillonii* Chemogeography: Distributional Patterns of Compounds and Compound Families at Multiple Spatial Scales. *In Prep*.  |[Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/ORCA_expansion_abstract.md)|   |[Repo](https://github.com/c-leber/ORCA/tree/Mb_MS_expansion)|
-- Leber CA et al. (2021) Improving short read assemblies for comparative genomic insights in *Moorena bouillonii* *In Prep*.  |[Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/iTerator_abstract.md)|  |[Repo](https://github.com/c-leber/iTerator)|
+- Leber CA et al. Induction versus Selection: Examining Alternative Mechanisms Driving *Alpheus frontalis* Association and Chemical Composition in *Moorena bouillonii*. *In Prep*.
+- Leber CA et al. *Moorena bouillonii* Chemogeography: Distributional Patterns of Compounds and Compound Families at Multiple Spatial Scales. *In Prep*.  |[Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/ORCA_expansion_abstract.md)|   |[Repo](https://github.com/c-leber/ORCA/tree/Mb_MS_expansion)|
+- Leber CA et al. Improving short read assemblies for comparative genomic insights in *Moorena bouillonii* *In Prep*.  |[Abstract](https://github.com/c-leber/Data-Science-Portfolio/blob/main/iTerator_abstract.md)|  |[Repo](https://github.com/c-leber/iTerator)|
