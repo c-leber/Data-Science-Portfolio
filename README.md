@@ -2,12 +2,25 @@
 Welcome to my data science porfolio! For more information about me, please see [my LinkedIn profile](https://www.linkedin.com/in/christopheraleber/ "Christopher A Leber's LinkedIn profile"). For my publication list, please see [here](https://github.com/c-leber/Data-Science-Portfolio/blob/main/Publications.md "Christopher A Leber's publication list").
 
 #### Guide
-- [Personal Explorations](#personal-explorations): toy projects for experimenting with tachniques and illustrating how I approach problems
+- [Current Focus](#current-focus): how my coding time is currently being spent
+- [Personal Explorations](#personal-explorations): toy projects for experimenting with techniques and illustrating how I approach problems
 - [PhD Projects - Lead](#phd-projects---lead): computationally-driven works core to my PhD dissertation
 - [PhD Projects - Contributor](#phd-projects---contributor): collaborative efforts to which I contributed data science acumen
 - [Proprietary Projects](#summary-of-proprietary-projects): summaries of data science and development conducted in the service of industry
-- [In the Works](#-in-the-works-): where my head is at now, and where my mind is going
+- [In the Works](#-in-the-works-): where my head is at, and where my mind is going
 
+## Current Focus
+
+### Senior Data Scientist at Shiru
+#### supervised + unsupervised learning | data warehouse & ETL | platform development 
+Engineering the data and software foundations of a world-class discovery platform for uncovering plant protein ingredients that can sustainably replace animal products in foods.
+
+- Data science and engineering technical leader
+- Lead cross-functional projects, balancing agile responsiveness to short-term stakeholder needs and persistent long-term platform development.
+- Leverage supervised and unsupervised machine learning to predict protein functions and attributes.
+- Conduct statistical analyses on disparate data sets ranging from transcriptomics to food sensory surveys, thoughtfully contending with challenges related to both big data and limited data, sparsity, non-uniform sampling, and other data biases.
+- Design and implement a data warehouse, and associated ETL pipelines, comprising hundreds of millions of proteins and hundreds of features and annotations per protein.
+- Engineer cloud computing infrastructure for model benchmarking and scaled deployment, interactive data visualization, and laboratory data tools.
 
 ## Personal Explorations
 
@@ -95,7 +108,7 @@ For my full publication list, please see [here](https://github.com/c-leber/Data-
 - Produced timely reports with data visualization to articulate actionable findings to colleagues.
 
 ### Council Brewing
-#### clustering| similarity metrics | time series | geospatial data
+#### clustering | similarity metrics | time series | geospatial data
 - Analyzed trends in demand for different beverage market segments.
 - Produced geospatial visualizations of brewery tasting room density across San Diego County.
 - Assessed brewery similarities across different feature sets.
