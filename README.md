@@ -1,5 +1,5 @@
 # Christopher A Leber, PhD - Data Science Portfolio
-Welcome to my data science porfolio! For more information about me, please see [my LinkedIn profile](https://www.linkedin.com/in/christopheraleber/ "Christopher A Leber's LinkedIn profile"). For my publication list, please see [here](https://github.com/c-leber/Data-Science-Portfolio/blob/main/Publications.md "Christopher A Leber's publication list").
+Welcome to my data science porfolio! It is very *out-of-date*. For **up-to-date** information about me, please see [my LinkedIn profile](https://www.linkedin.com/in/christopheraleber/ "Christopher A Leber's LinkedIn profile"). For my *out-of-date* publication list, please see [here](https://github.com/c-leber/Data-Science-Portfolio/blob/main/Publications.md "Christopher A Leber's publication list").
 
 #### Guide
 - [Current Focus](#current-focus): how my coding time is currently being spent
