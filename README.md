@@ -1,4 +1,4 @@
-#### START HERE
+### NOTICE
 Welcome to my data science porfolio! The following document is out-of-date. For up-to-date information about me and my work, please see [my LinkedIn profile](https://www.linkedin.com/in/christopheraleber/ "Christopher A Leber's LinkedIn profile"). For an up-to-date publication list (not including _in prep_ and _in review_), please see [here](https://scholar.google.com/citations?user=32OVaOQAAAAJ&hl=en). Questions? Please feel free to connect with me on LinkedIn, and message me!
 
 
